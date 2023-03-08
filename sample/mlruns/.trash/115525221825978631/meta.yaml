@@ -1,0 +1,7 @@
+artifact_location: file:///Users/pranathi/Local%20Documents/GIT_REPOS/Demo_GIT_1/sample/mlruns/115525221825978631
+creation_time: 1678136645483
+experiment_id: '115525221825978631'
+last_update_time: 1678136684451
+lifecycle_stage: active
+name: mlflow-demo
+tags: {}

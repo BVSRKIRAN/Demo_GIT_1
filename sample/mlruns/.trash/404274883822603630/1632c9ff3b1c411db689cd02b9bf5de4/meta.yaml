@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pranathi/Local%20Documents/GIT_REPOS/Demo_GIT_1/sample/mlruns/404274883822603630/1632c9ff3b1c411db689cd02b9bf5de4/artifacts
+end_time: 1678137153653
+entry_point_name: ''
+experiment_id: '404274883822603630'
+lifecycle_stage: active
+run_id: 1632c9ff3b1c411db689cd02b9bf5de4
+run_name: run_3
+run_uuid: 1632c9ff3b1c411db689cd02b9bf5de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678137153642
+status: 3
+tags: []
+user_id: pranathi
